@@ -1,0 +1,24 @@
+/* Seletores de Tag*/
+h1{
+    background-color: blue
+}
+/* Seletores de ID*/
+#header{
+    background-color:red 
+}
+#main{
+    background-color:green
+ 
+}
+#footer{
+    background-color:pink
+}
+/*Seletores de Classe*/
+.logomarca{
+    background-color: blueviolet
+}
+/*Intercalando Seletores*/
+
+#footer p .logomarca{
+    color: darkorange
+}
