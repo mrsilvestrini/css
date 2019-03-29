@@ -1,19 +1,19 @@
 /* Seletores de Tag*/
 h1{
-    background-color: blue
+    background-color: blue;
 }
 /* Seletores de ID*/
 #header{
-    background-color:red 
+    background-color:red;
 }
 #main{
-    background-color:green
+    background-color:green;
  
 }
 #footer{
-    background-color:pink
+    background-color:pink;
 }
 /*Seletores de Classe*/
 .logomarca{
-    background-color:yellow
+    background-color:yellow;
 }
