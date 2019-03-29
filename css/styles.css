@@ -4,10 +4,10 @@ h1{
 }
 /* Seletores de ID*/
 #header{
-    background-color:green
+    background-color:red
 }
 #main{
-    background-color:green
+    background-color:yellow
  
 }
 #footer{
@@ -16,4 +16,13 @@ h1{
 /*Seletores de Classe*/
 .logomarca{
     background-color:rgb(0, 255, 42)
+}
+
+/*Seletores Intercalados*/
+#footer .logomarca{
+    background-color:pink
+}
+
+#main .logomarca{
+    background-color:grey
 }
