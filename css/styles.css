@@ -1,30 +1,23 @@
 /*
-Ordem de Prioridade - Quanto mais especifico, a prioridade sera aplicada
-
-Ordem de Prioridae
-tag
-classe
-id
+Personalizando Links
 */
+a{
+    color: blueviolet;    
+}
+a:hover{
+    color: yellow;        
+}
+a:active{
+    color: aquamarine;    
+}
+input:focus{
+    color: greenyellow;
+}
+div:focus-within{
+    background-color: gray;
+}
 
-#header {
-    background-color: aquamarine;
-}
-#header div div {
-    background-color:black;
-}
-#header div div a {
-    background-color:red;
-    color: cadetblue    
-    
-}
-#header div div a {
-    color: whitesmoke; 
+h1:hover{
+    background-color: blue;   
 }
 
-.header {
-    background-color: lightsalmon;
-}
-header div div  {
-    background-color:brown;
-}
