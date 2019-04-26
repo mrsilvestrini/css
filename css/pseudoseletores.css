@@ -1,0 +1,23 @@
+/*
+Personalizando Links
+*/
+a{
+    color: blueviolet;    
+}
+a:hover{
+    color: yellow;        
+}
+a:active{
+    color: aquamarine;    
+}
+input:focus{
+    color: greenyellow;
+}
+div:focus-within{
+    background-color: gray;
+}
+
+h1:hover{
+    background-color: blue;   
+}
+
