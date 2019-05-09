@@ -1,31 +1,35 @@
-.btn{    
+a[class*="btn"] {
+    display: inline-block;
     background-color: rgba(79, 29, 80, 0.08);
-    text-decoration: none;    
+    text-decoration: none;
     padding: 10px 20px;
     border-radius: 10px;
+    color: brown
 }
-.btn.btn-red{        
+
+.btn.btn-red {
     background-color: crimson;
     color: aliceblue;
 }
 
-.btn-red:hover{
-    background-color:rgb(148, 71, 96);
+.btn-red:hover {
+    background-color: rgb(148, 71, 96);
 }
-.btn.btn-blue{
+
+.btn.btn-blue {
     background-color: blue;
     color: aliceblue;
 }
 
-.btn-blue:hover{
-    background-color:rgb(130, 136, 212);
+.btn-blue:hover {
+    background-color: rgb(130, 136, 212);
 }
 
-.btn.btn-green{
+.btn.btn-green {
     background-color: green;
     color: aliceblue;
 }
 
-.btn-green:hover{
-    background-color:rgb(155, 231, 83);
+.btn-green:hover {
+    background-color: rgb(155, 231, 83);
 }

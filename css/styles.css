@@ -1,6 +1,8 @@
 @import 'buttons.css';
-
-body{
-    padding: 20px
+@import 'box.css';
+body {
+    padding: 20px;
+    background-color: #74747438;
+    font-size: 36px;
+    font-weight: 600;
 }
-
