@@ -1,5 +1,6 @@
 @import 'buttons.css';
 @import 'box.css';
+@import 'display.css';
 body {
     padding: 20px;
     background-color: #74747438;
