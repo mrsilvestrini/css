@@ -3,6 +3,7 @@
 @import 'display.css';
 @import 'modal.css';
 @import 'menu.css';
+@import 'form.css';
 body {
     padding: 20px;
     background-color: #f2f2f2;
