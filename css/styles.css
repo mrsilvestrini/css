@@ -1,9 +1,11 @@
 @import 'buttons.css';
 @import 'box.css';
 @import 'display.css';
+@import 'modal.css';
+@import 'menu.css';
 body {
     padding: 20px;
-    background-color: #74747438;
+    background-color: #f2f2f2;
     font-size: 36px;
     font-weight: 600;
 }
